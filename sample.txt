@@ -1,3 +1,5 @@
 This is a sample file.
 
 This is first commit from the git 1 machine
+
+This is firt commit from the git 2 machine
